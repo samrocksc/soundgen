@@ -1,0 +1,9 @@
+[package]
+name = "rust-iot-devfest2"
+version = "0.1.0"
+authors = ["Sam! <samrocksc@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+light-morse = "0.2.0"
+rodio = "0.8.1"
